@@ -4,11 +4,14 @@ title: certifications
 permalink: /certifications/
 ---
 
+{% raw %}
 <style>
 .page__inner-wrap {
   margin: 40px;
 }
 </style>
+{% endraw %}
+
 
 ## Featured Certifications
 ...
