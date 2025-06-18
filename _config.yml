@@ -17,11 +17,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "German Mühlenberg"
+title                    : "Cloud Developer Portfolio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "German"
+description              : "Cloud developer in training with 10 years of professional writing experience. Currently transitioning into the IT sector, specializing in AWS-based solutions (Amplify, Lambda, Lex, DynamoDB). Looking to join a team where I can apply my technical knowledge and strong communication skills."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
