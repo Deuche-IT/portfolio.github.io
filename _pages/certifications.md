@@ -10,7 +10,7 @@ permalink: /certifications/
 }
 </style>
 
-## Featured Projects
+## Featured certifications
 ...
 
 
