@@ -1,8 +1,18 @@
 ---
 layout: page
-title: Certifications
-permalink: /certifications/
+title: Projects
+permalink: /projects/
 ---
+
+<style>
+.page__inner-wrap {
+  margin: 40px;
+}
+</style>
+
+## Featured Projects
+...
+
 
 ## AWS Certified Cloud Practitioner
 
