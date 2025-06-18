@@ -1,1 +1,12 @@
+body {
+  margin: 20px; /* aplica 20px alrededor de todo el contenido */
+}
+
+.container {
+  margin: 30px auto; /* margen vertical de 30px, centrado horizontal */
+}
+
+h1 {
+  margin-bottom: 15px; /* margen debajo del título */
+}
 
