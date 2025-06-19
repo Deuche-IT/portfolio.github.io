@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
 
 # Site Settings
 locale                   : "en-US"
@@ -116,8 +116,8 @@ author:
   name             : "German"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Cloud developer in training with 10 years of professional writing experience. Currently transitioning into the IT sector, specializing in AWS-based solutions (Amplify, Lambda, Lex, DynamoDB). Looking to join a team where I can apply my technical knowledge and strong communication skills."
-  location         : "Somewhere"
-  email            :
+  location         : "Belterstr. 23, Leipzig"
+  email            : gmuhlenberg@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
