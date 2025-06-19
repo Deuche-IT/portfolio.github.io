@@ -3,11 +3,11 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Skills"
+  #- title: "Skills"
     url: /skills/
   - title: "Certifications"
     url: /certifications/
   - title: "Contact"
     url: /contact/
-  - title: "Resume"
+  #- title: "Resume"
     url: /assets/German_Muhlenberg_Resume.pdf
