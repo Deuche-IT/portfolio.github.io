@@ -9,5 +9,5 @@ main:
     url: /certifications/
   - title: "Contact"
     url: /contact/
-  #- title: "Resume"
+  - title: "Resume"
     url: /assets/German_Muhlenberg_Resume.pdf
