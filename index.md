@@ -37,5 +37,5 @@ Converts text input to audio output using AWS services.
 
 ## Contact
 
-Find me on [GitHub](https://github.com/Deuche-IT) # or [LinkedIn](https://www.linkedin.com/in/tu-linkedin).
+Find me on [GitHub](https://github.com/Deuche-IT)
 
