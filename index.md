@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Germán – Cloud Developer in Training"
 author_profile: true
 ---
 
