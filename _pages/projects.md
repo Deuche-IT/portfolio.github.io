@@ -6,6 +6,10 @@ permalink: /projects/
 
 ## Featured Projects
 
+### Code of the Dead  
+A work-in-progress 2D zombie shooter game built in Python. Focused on AI behavior, ammo and health management, and wave progression mechanics.  
+[View on GitHub](https://github.com/Deuche-IT/Muhlenberg/tree/main/projects/code-of-the-dead)
+
 ### Amplify Tracker App  
 A web application to create and manage personal bucket lists.  
 Technologies used: React, AWS Amplify, DynamoDB, AWS Lambda.  
