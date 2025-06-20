@@ -20,6 +20,9 @@ Former writer turned aspiring cloud developer. My experience with WordPress, soc
 
 ## Featured Projects
 
+### 🔹 [Dead of the Code](https://github.com/Deuche-IT/Muhlenberg/tree/main/projects/code-of-the-dead)
+A tactical zombie shooter made in Python. Includes AI behaviors, ammo & health systems, and horde-based wave progression.
+
 ### 🔹 [Amplify Tracker App](https://github.com/Deuche-IT/Muhlenberg/tree/main/projects/amplify-tracker)
 A web app to create and manage personal bucket lists.  
 **Tech used:** React, AWS Amplify, DynamoDB, AWS Lambda.
