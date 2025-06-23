@@ -2,6 +2,7 @@
 layout: page
 title: certifications
 permalink: /certifications/
+robots: noindex
 ---
 
 ## Featured Certifications
