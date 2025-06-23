@@ -2,6 +2,7 @@
 layout: single
 title: "Home"
 author_profile: true
+robots: noindex
 ---
 
 ## About Me
