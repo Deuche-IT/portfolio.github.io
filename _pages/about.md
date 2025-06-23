@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## Author  
-**Germán Mühlenberg**  
+**German**  
 **Email:** gmuhlenberg@gmail.com  
 **GitHub:** [Deuche-IT](https://github.com/Deuche-IT)
 
