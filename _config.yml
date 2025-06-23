@@ -116,8 +116,8 @@ author:
   name             : "German"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Aspiring cloud developer with a writing background since 2013. Experienced in WordPress, digital marketing, and social media. Now focused on AWS-based solutions and eager to apply both tech and communication skills in a team setting."
- # location         : "Leipzig"
- email            : gmuhlenberg@gmail.com
+ # location        : "Leipzig"
+ email             : "gmuhlenberg@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
