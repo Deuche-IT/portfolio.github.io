@@ -14,26 +14,26 @@ Former writer turned aspiring cloud developer. My experience with WordPress, soc
 **AWS Certified Cloud Practitioner**  
 📅 Obtained: June 2025  
 ✅ Validates foundational knowledge of cloud computing and core AWS services such as security, billing, and support.  
-🔗 [View Certificate (PDF)](assets/certifications/AWS%20Certified%20Cloud%20Practitioner.pdf)
+🔗 [🔗 View Certificate (PDF)](https://github.com/Deuche-IT/Muhlenberg/raw/main/assets/certifications/AWS%20Certified%20Cloud%20Practitioner.pdf)
 
 ---
 
 ## Featured Projects
 
-### 🔹 [Dead of the Code](https://github.com/Deuche-IT/Muhlenberg/tree/main/projects/code-of-the-dead)
+### 🔹 [View on GitHub](https://github.com/Deuche-IT/Muhlenberg/tree/main/projects/code-of-the-dead)
 A tactical zombie shooter made in Python. Includes AI behaviors, ammo & health systems, and horde-based wave progression.
 
-### 🔹 [Amplify Tracker App](https://github.com/Deuche-IT/Muhlenberg/tree/main/projects/amplify-tracker)
+### 🔹 [View on GitHub](https://github.com/Deuche-IT/Muhlenberg/tree/main/projects/amplify-tracker-app)
 A web app to create and manage personal bucket lists.  
 **Tech used:** React, AWS Amplify, DynamoDB, AWS Lambda.
 
-### 🔹 [AWS Rekognition](https://github.com/Deuche-IT/Muhlenberg/tree/main/projects/aws-rekognition)
+### 🔹 [View on GitHub](https://github.com/Deuche-IT/Muhlenberg/tree/main/projects/aws-rekognition)
 Image and video analysis using AWS Rekognition.
 
-### 🔹 [Hotel Booking Chatbot](https://github.com/Deuche-IT/Muhlenberg/tree/main/projects/booking-chatbot)
+### 🔹 [View on GitHub](https://github.com/Deuche-IT/Muhlenberg/tree/main/projects/hotel-booking-chatbot)
 A chatbot for hotel bookings built with AWS Lex and Lambda.
 
-### 🔹 [Text to Audio](https://github.com/Deuche-IT/Muhlenberg/tree/main/projects/text-to-audio)
+### 🔹 [View on GitHub](https://github.com/Deuche-IT/Muhlenberg/tree/main/projects/text-to-audio)
 Converts text input to audio output using AWS services.
 
 ---
