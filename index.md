@@ -42,5 +42,10 @@ Converts text input to audio output using AWS services.
 
 ## Contact
 
-Find me on [GitHub](https://github.com/Deuche-IT)
+## Contact
+ 
+Feel free to reach out through GitHub or this email:
+
+- 🐙 [GitHub](https://github.com/Deuche-IT)
+- ✉️ [Click here to send me an email](gmuhlenberg@gmail.com) 
 
