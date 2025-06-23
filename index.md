@@ -14,7 +14,7 @@ Former writer turned aspiring cloud developer. My experience with WordPress, soc
 **AWS Certified Cloud Practitioner**  
 📅 Obtained: June 2025  
 ✅ Validates foundational knowledge of cloud computing and core AWS services such as security, billing, and support.  
-🔗 [🔗 View Certificate (PDF)](https://github.com/Deuche-IT/Muhlenberg/raw/main/assets/certifications/AWS%20Certified%20Cloud%20Practitioner.pdf)
+🔗 [View Certificate (PDF)](https://github.com/Deuche-IT/Muhlenberg/raw/main/assets/certifications/AWS%20Certified%20Cloud%20Practitioner.pdf)
 
 ---
 
